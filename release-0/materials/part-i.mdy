@@ -12,6 +12,15 @@ sort: 1
 
 # Video Part I
 
+<div class='warning'>
+
+This document is a draft
+===============
+
+Corrections, thoughts and suggestions are all welcome via [the github repo](https://github.com/urbit/release-0). Thanks!
+
+</div>
+
 <iframe src="https://player.vimeo.com/video/133395510?color=fff&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 <p class='leader'>Here we fire up an urbit and get it to talk to the web.</p>

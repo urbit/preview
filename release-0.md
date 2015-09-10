@@ -4,6 +4,15 @@
 ### ~2015.8.12..3.12.30
 # Release 0
 
+<div class='warning w'>
+
+These documents are still drafts
+================================
+
+Corrections, thoughts and suggestions are all welcome via [the github repo](https://github.com/urbit/release-0). Thanks!
+
+</div>
+
 <img src="https://storage.googleapis.com/urbit-extra/release-0/earth-4.png" class='leader'/>
 
 <p class='leader'>This release covers the technical foundation of urbit and the current state of the system.</p>
