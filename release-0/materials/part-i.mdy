@@ -67,7 +67,7 @@ And edited the keystrokes together.  One cut per line.  Yes, this workflow was m
 #### GWP
 Next time, actual tools!
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/01.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/01.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/01.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/01.png)
 
 ##### 00.03
 
@@ -87,7 +87,7 @@ Via an HTTP API to a mail delivery service, of course.  But - the invite is actu
 #### GWP
 The Mailgun API connector wasn't quite together yet.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/02.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/02.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/02.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/02.png)
 
 ##### 00.07
 
@@ -111,7 +111,7 @@ You multiplex the command line with ^X.  It's like switching windows.  But every
 #### GWP
 Gets mixed together and scrolls up.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/03.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/03.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/03.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/03.png)
 
 ##### 00.14
 
@@ -126,7 +126,7 @@ Bear in mind, `~firput-miplex` doesn't *exist* yet.
 #### CY
 That's right.  Suppose you sent someone email, but to an account they haven't created, on a server whose domain isn't registered.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/04.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/04.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/04.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/04.png)
 
 ##### 00.17
 
@@ -141,14 +141,14 @@ In urbit your name, or *base*, is your network address.
 
 We're sending `~firput-miplex` packets but not hearing back.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/05-a.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/05-a.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/05-a.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/05-a.png)
 
 ##### 00.22
 
 #### GWP
 Aldo gets the email with his urbit ticket.  He can't resist. 
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/05.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/05.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/05.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/05.png)
 
 ##### 00.37
 
@@ -161,7 +161,7 @@ He probably should get that secret out of his bash history.
 #### GWP
 That's what Sergey Aleynikov said to himself!
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/06.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/06.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/06.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/06.png)
 
 ##### 00.43
 
@@ -177,7 +177,7 @@ It's the way urbit networking works.  The transport layer has no concept of conn
 #### GWP
 Nobody who watches our film notices this.  Nobody.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/07.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/07.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/07.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/07.png)
 
 ##### 00.45
 
@@ -190,14 +190,14 @@ Why do we see it twice?
 #### CY
 I have no idea.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/08.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/08.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/08.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/08.png)
 
 ##### 01.26
 
 #### GWP
 I go to your `tasfyn-partyv.urbit.org` url.  But there's nothing there.  Error page.  What?
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/09.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/09.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/09.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/09.png)
 
 ##### 01.48
 
@@ -225,7 +225,7 @@ Not that it scales!  But it works fine behind an nginx cache.
 #### GWP
 If we edit this commentary transcript right now, it'll change on the reader's screen.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/10.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/10.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/10.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/10.png)
 
 ##### 02.14
 
@@ -238,7 +238,7 @@ Imagine living in a world where everyone assumed it should just work this way - 
 #### CY
 Of course it's not just the page content we're tracking.  If I changed the markdown parser, you'd reload again.  It's everything local and time-versioned used in the build.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/11.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/11.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/11.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/11.png)
 
 ##### 02.34
 
@@ -254,7 +254,7 @@ urbit's is the closed-minded school.
 #### CY
 Exactly.  Your url goes mostly undigested to the `%ford` build system.  If these aren't the urls you want the user to see, wrap it in an nginx rewrite rule.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/12.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/12.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/12.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/12.png)
 
 ##### 02.49
 
@@ -270,7 +270,7 @@ Imagine a unix inode, except if every inode was a directory plus an optional fil
 #### GWP
 Or `%clay` as we say in urbit.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/13.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/13.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/13.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/13.png)
 
 ##### 02.53
 
@@ -284,7 +284,7 @@ This `tree` function is pretty simple - it just uses the url suffix, `/pub/verse
 
 Since there's no file on that arch, we just show the list of children.  Just like Apache `public_html`.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/14.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/14.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/14.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/14.png)
 
 ##### 03.15
 
@@ -297,7 +297,7 @@ Don't look too hard at the fine print!
 #### CY
 Knuth was wrong about the root of all evil.  It's actually premature documentation.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/15.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/15.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/15.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/15.png)
 
 ##### 03.36
 
@@ -316,7 +316,7 @@ We should have demoed the navigation controls at the top, which let you move up 
 #### GWP
 Jakob Nielsen is shaking his head somewhere.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/16.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/16.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/16.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/16.png)
 
 ##### 03.47
 
@@ -336,7 +336,7 @@ We set a cleartext `*.urbit.org` cookie with your urbit base, so within `urbit.o
 #### GWP
 Obviously this login system is application-independent.  It's a part of urbit, not a part of `:talk.`
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/17.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/17.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/17.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/17.png)
 
 ##### 03.49
 
@@ -351,7 +351,7 @@ Galen went to art school or something.  He has high standards.
 
 Notice of course that we see the same message backlog in the web ui and the console.  Obviously it's the same app.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/17-a.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/17-a.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/17-a.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/17-a.png)
 
 ##### 04.15
 
@@ -368,7 +368,7 @@ To make a long story short, `:talk` is basically Usenet slumming as a chat serve
 #### GWP
 Next on our agenda, animated cat gifs.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/18.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/18.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/18.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/18.png)
 
 ##### 04.20
 
@@ -387,7 +387,7 @@ NTP works, except when it doesn't.  Fortunately Philip was up to the challenge.
 #### PM
 The bug was in my code.  On the other hand, you put it there.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/19.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/19.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/19.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/19.png)
 
 ##### 04.34
 
@@ -409,7 +409,7 @@ At least the example isn't faked.  Well, unless you count using the coinbase san
 #### CY
 Arguably an exchange API is a silly way to send a payment.  We should run a bitcoin core daemon with an urbit gateway.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/20.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/20.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/20.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/20.png)
 
 ##### 04.55
 
@@ -422,7 +422,7 @@ Maybe there should be a twitter sandbox.
 #### CY
 I know a lot of people who could use a twitter sandbox!
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/21.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/21.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/21.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/21.png)
 
 ##### 05.14
 
@@ -433,7 +433,7 @@ But it still makes a lot more sense to keep valuable secrets in a cloud-hosted V
 
 When the line between hosting provider and hosted computer is drawn at the edge of the VM, it's a very precise line.  It would be outrageous if amazon was peeking into AWS VMs, stealing their data and using it to sell more ads.  So logically you're not safer, but in practice you are.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/22.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/22.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/22.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/22.png)
 
 ##### 05.33
 
@@ -443,7 +443,7 @@ Of course it looks better if you unlimit coredumpsize.  So you actually, uh, dum
 #### GWP
 Curtis went to unix school or something.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/23.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/23.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/23.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/23.png)
 
 ##### 05.41
 
@@ -463,7 +463,7 @@ The only rule is that you can't execute the actions caused by an event until you
 #### GWP
 So every event is a transaction.  Watch out, Oracle!
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/24.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/24.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/24.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/24.png)
 
 ##### 05.52
 
@@ -473,7 +473,7 @@ I'm not sure we can get away with this "NoDB" meme.  Didn't you just say urbit *
 #### CY
 A foolish consistency is the hobgoblin of little minds.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/25.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/25.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/25.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/25.png)
 
 ##### 06.41
 
@@ -492,7 +492,7 @@ You know, cosmic rays could cause big problems with urbit.
 #### CY
 I'm aware of that.  It's a real issue with any kind of repeatable computing.  You depend on perfect execution.  Certainly, ECC memory is a must.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/26.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/26.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/26.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/26.png)
 
 ##### 06.54
 
@@ -507,7 +507,7 @@ And third, your browser hung up and reconnected.  Just typical printf noise from
 #### GWP
 I wonder if anyone actually noticed that.
 
-<a href="https://storage.googleapis.com/urbit-extra/2015.6.26/27.png"><img src="https://storage.googleapis.com/urbit-extra/2015.6.26/27.png" /></a>
+[![](https://storage.googleapis.com/urbit-extra/2015.6.26/27.png)](https://storage.googleapis.com/urbit-extra/2015.6.26/27.png)
 
 ##### 06.56
 
