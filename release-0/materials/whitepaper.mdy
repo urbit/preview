@@ -7,8 +7,11 @@ sort: 0
 <h2 class='sub'>Release 0</h2>
 <h3 class='time'>~2015.8.7</h3>
 
-Urbit: an operating function.
-=============================
+Urbit: an operating function
+============================
+
+Whitepaper
+==========
 
 <div class='warning'>
 
@@ -35,6 +38,11 @@ decentralized network where you own and control your own
 general-purpose cloud computer, or "personal server." A personal
 server ("pserver") is not a new way to host your old apps; ownership
 is a different user experience.
+
+Download
+--------
+[As `.md`](https://storage.googleapis.com/urbit-extra/release-0/whitepaper.md)
+[As `.pdf`](https://storage.googleapis.com/urbit-extra/release-0/whitepaper.pdf)
 
 <toc></toc>
 
