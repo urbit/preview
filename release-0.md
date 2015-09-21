@@ -13,8 +13,6 @@ Corrections, thoughts and suggestions are all welcome via [the github repo](http
 
 </div>
 
-<img src="https://storage.googleapis.com/urbit-extra/release-0/earth-4.png" class='leader'/>
-
 <p class='leader'>This release covers the technical foundation of urbit and the current state of the system.</p>
 
 <list dataPath="/pub/release-0/materials"></list>
