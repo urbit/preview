@@ -1,10 +1,8 @@
-# release-0
+# Urbit Preview 1
 
-These materials cover the technical foundations of urbit and the 
-current state of the system. 
+These are the source files for the contents of preview.urbit.org. You can drop them into `/home/pub/` on any urbit to run them. 
 
-These documents are still drafts. Corrections and suggestions are 
-welcome via pull request. 
+Corrections and suggestions are welcome via pull request. 
 
 The main urbit respository can be found [here](https://github.com/urbit/urbit).
 

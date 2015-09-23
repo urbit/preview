@@ -1,0 +1,123 @@
+#cont,
+body {
+  background-color: #000 !important;
+  color: #fff;
+}
+
+#nav {
+  display: none;
+}
+
+img.leader {
+  width: 42rem;
+}
+
+h2,
+h3 {
+  margin-top: auto;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.8rem; 
+}
+
+code {
+  background-color: transparent;
+  font-weight: 200;
+  font-size: 1rem;
+}
+
+p.email {
+  margin-bottom: 2rem;
+}
+
+div.email:empty:not(:focus):before{
+  content:attr(data-ph)
+}
+
+input.email {
+  font: inherit;
+  font-family: 'scp';
+  font-weight: 200;
+  line-height: 2rem;
+  min-width: 2rem;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  color: #fff;
+  border-bottom: 3px solid #fff;
+  margin-right: 1rem;
+  display: inline-block;
+}
+
+input.email.valid {
+  color: #99F27C;
+}
+
+input.email.error {
+  color: #F74040;
+}
+
+button.submit {
+  font: inherit;
+  border: 0;
+  background-color: #fff;
+  font-size: 1rem;
+  line-height: 1.6rem;
+  vertical-align: middle;
+  font-weight: 500;
+  padding: .4rem;
+}
+
+h1.leader {
+  font-size: 1rem;
+  font-weight: 200;
+  letter-spacing: .06rem;
+  margin-top: 1rem;
+}
+
+p.leader {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.6rem;
+  text-transform: none;
+  text-decoration: none;
+}
+
+li::before {
+  font-size: 1rem;
+}
+
+.list > li > a {
+  text-transform: none;
+}
+
+.list h1 {
+  font-size: 1.2rem;
+  line-height: 2rem;
+}
+
+a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+h1 a {
+  text-decoration: none;
+}
+
+h3,
+div.footer {
+  font-family: 'scp';
+  font-size: .7rem;
+  font-weight: 200;
+}
+
+div.footer {
+  margin: 4rem 0 4rem 0;
+}
+
+div.footer p {
+  margin: 0;
+}
