@@ -3,7 +3,7 @@ title: Video part II
 sort: 2
 ---
 
-<link rel="stylesheet" type="text/css" href="/home/pub/release-0/src/video.css" />
+<link rel="stylesheet" type="text/css" href="/home/pub/preview/src/video.css" />
 
 <img src="https://storage.googleapis.com/urbit-extra/logo/logo-black-100x100.png" class='logo' />
 <h3 class='time'>~2015.9.25</h3>
@@ -42,6 +42,8 @@ Urbit certainly sounds like something that would work for idempotence.
 #### CY
 It does!  Urbit.  It's what plants crave.
 
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/01.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/01.png)
+
 ##### 00.56
 
 #### CY
@@ -76,6 +78,8 @@ I don't.
 
 #### CY
 A conflict-free replicated data type.  It's what plants crave.
+
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/02.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/02.png)
 
 ##### 01.01
 
@@ -112,6 +116,8 @@ No, but it should!
 
 Speaking of commands, we did a `|merge` here and a `|sync` before.  Again, `|sync` sets up a flow, `|merge` is a one-time copy.  So future updates of my `%demo` won't flow into `%demo-work`, but they will flow into *your* `%demo`.  Because I merged and you synced.
 
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/03.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/03.png)
+
 ##### 01.11
 
 #### CY
@@ -130,6 +136,8 @@ I still think `,[x=@ y=@]` is a really ugly syntax.
 
 #### CY
 I think you're right.
+
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/04.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/04.png)
 
 ##### 01.23
 
@@ -151,6 +159,8 @@ Honestly, I think normal Hoon looks better.
 
 #### CY
 Honestly, it's all about the line count.
+
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/05.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/05.png)
 
 ##### 01.41
 
@@ -183,6 +193,8 @@ Sometimes I wonder if it's just that you're not smart enough to learn category t
 #### CY
 (in Maryland accent) I'm just a country boy but I'm sure I could figure it out real good if I had the need.
 
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/06.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/06.png)
+
 ##### 02.03
 
 #### CY
@@ -193,6 +205,8 @@ Why am I not responding, still trying?
 
 #### CY
 That's the old network layer.  There's still a bunch of 2013 code in there.
+
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/07.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/07.png)
 
 ##### 02.14
 
@@ -221,6 +235,8 @@ Would it be a good idea to do this in production?  Also, what happens if you mak
 #### CY
 No.  If only because it leaves a gnarly edit history.  Also -- we'll see that in a little bit.
 
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/08.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/08.png)
+
 ##### 03.08
 
 #### GWP
@@ -228,6 +244,9 @@ Marketing copy in a demo really isn't appropriate.
 
 #### CY
 I know.  It is kind of true, though.
+
+
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/09.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/09.png)
 
 ##### 03.11
 
@@ -240,12 +259,16 @@ Can't the filesystem handle a trivial three-way merge like that?
 #### CY
 I think so!
 
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/10.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/10.png)
+
 ##### 03.19
 
 #### CY
 For the new version our game state gets more sophisticated.  (I don't know why I said "protocol.")  Now it knows the players and the audience.  
 
 Of course we need to be able to upgrade without losing our state.  So we'll have to write an adapter.  Which is pretty easy, because we just added a couple fields.
+
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/11.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/11.png)
 
 ##### 03.28
 
@@ -262,6 +285,8 @@ I assert that anyone who can learn JS can learn Hoon.  On the other hand, I don'
 
 #### GWP
 Just don't use the word "monkey" in the same sentence as "front-end," and we'll be fine.
+
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/12.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/12.png)
 
 ##### 03.35
 
@@ -285,6 +310,8 @@ Not that the app knows it's dealing with a browser.  It thinks the browser is an
 #### GWP
 Because the mark has that translator arm.  Good times!
 
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/13.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/13.png)
+
 ##### 03.43
 
 #### CY
@@ -302,7 +329,9 @@ We should eventually have a socket driver that doesn't do this.  Right now it's 
 #### CY
 Please don't say "socket" when you mean "websocket."  It reminds me of how old I am.
 
-###### 03.51
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/14.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/14.png)
+
+##### 03.51
 
 #### CY
 Is this a special template language?  No, it's actually Hoon.  It has custom syntax for building XML-shaped nouns.  So we don't need a template language.
@@ -325,6 +354,8 @@ I'll ignore that remark.  In any case, an `urb.js` client application POSTs comm
 #### CY
 It's also exactly the way an urbit client works, so the server doesn't have to know it's talking over JSON to a browser.  Basically the web app doesn't even know it's a web app.
 
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/15.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/15.png)
+
 ##### 04.02
 
 #### GWP
@@ -336,6 +367,8 @@ I don't think there's any need to code-golf our JS.  Any front-end --
 #### GWP
 Any front-end *engineer* will have no problem programming for `urb.js`.
 
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/16.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/16.png)
+
 ##### 04.07
 
 #### CY
@@ -343,6 +376,8 @@ If I edit this CSS, will the browser get a change event and reload it?
 
 #### GWP
 If the JS page is written right, I think so.  We normally listen to the page source and its dependencies and refresh on any change.  More long-polling.
+
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/17.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/17.png)
 
 ##### 04.25
 
@@ -360,6 +395,8 @@ So this is what happens when you get an update and it doesn't compile.  It's wha
 #### GWP
 As easy as that!
 
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/18.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/18.png)
+
 ##### 04.34
 
 #### CY
@@ -374,6 +411,8 @@ Now, you sound like you work for Oracle.  Or maybe the Defense Department.  What
 
 #### CY
 It works for the take we recorded!
+
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/19.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/19.png)
  
 ##### 04.40 
 
@@ -390,6 +429,8 @@ Is this schema evolution?  Is it typed?  Is it ACID?  How long can application s
 #### CY
 Yes, yes, yes, and as long as it wants.  Generally you do want to export core data to the filesystem so that other apps can see it.  The filesystem is not just revision-controlled but also typed, so this isn't too awful.
 
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/20.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/20.png)
+
 ##### 04.57 
 
 #### GWP
@@ -399,6 +440,8 @@ So you're playing against me on my own urbit.  You're talking to my `:taco` appl
 Pretty much.  Also, this is a really nice-looking tictatoe board and it's a shame our game is so short.  We even grey out the board when it's not your turn.
 
 Note that the client UI even has a presence widget.  This isn't just tictactoe.  It's *social* tictactoe.
+
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/21.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/21.png)
 
 ##### 05.19
 
@@ -410,6 +453,8 @@ I think I panicked.  Does it have to clear the board that fast?  Shouldn't it sh
 
 #### CY
 It's true.  This isn't the world's most polished tictactoe app.  On the other hand, we do have an operating system to finish. 
+
+[![](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/22.png)](https://storage.googleapis.com/urbit-extra/preview-1/screenshots/ii/22.png)
 
 ##### 05.22
 
