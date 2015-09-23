@@ -51,6 +51,14 @@ input.email {
   display: inline-block;
 }
 
+input.email.valid {
+  color: #99F27C;
+}
+
+input.email.error {
+  color: #F74040;
+}
+
 button.submit {
   font: inherit;
   border: 0;
