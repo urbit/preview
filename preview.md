@@ -1,10 +1,13 @@
 <link rel="stylesheet" type="text/css" href="/home/pub/preview/src/main.css" />
 
-<img src="https://storage.googleapis.com/urbit-extra/logo/logo-white-100x100.png" class='logo' />
+<img src="https://storage.googleapis.com/urbit-extra/logo/logo-black-100x100.png" class='logo' />
 ### ~2015.9.24
+
 <h1 class="leader">Urbit Preview 1</h1>
 
-<p class='leader'>Do you ever feel like you're using the Internet as a modem?</p>
+<list dataPath="/pub/preview/materials"></list>
+
+## Do you ever feel like you're using the Internet as a modem?
 
 The Internet is actually an awesome modem.  The online services are amazing.  AOL and Compuserve look downright neolithic.  But... have we really come that far from 1995?
 
@@ -20,9 +23,7 @@ If you're not a geek: imagine a world where instead of dialing into 12 different
 
 Geek or not, you'll have to wait.  Urbit remains a closed network in alpha-test.  This stuff isn't easy.  Urbit is *nowhere near* ready for your grandmother.  It wants to be the Apple II of personal cloud computing.  Right now it's not quite the Apple I.
 
-But while Urbit is very much alpha, it's very much not vaporware.  Most people haven't heard of Urbit.  Many who have think it's a hoax.  If it's a hoax, it's quite an intricate hoax:
-
-<list dataPath="/pub/preview/materials"></list>
+But while Urbit is very much alpha, it's very much not vaporware.  Most people haven't heard of Urbit.  Many who have think it's a hoax.  If it's a hoax, it's quite an intricate hoax. You can read our [whitepaper]() and watch our technical demo (both [part i]() and [part ii]()).
 
 You can also check out our [github](https://github.com/urbit/urbit), of course.  And if you want to see more updates like these, we'd love your email:
 
