@@ -1,11 +1,13 @@
 <link rel="stylesheet" type="text/css" href="/home/pub/preview/src/main.css" />
 <img src="https://storage.googleapis.com/urbit-extra/logo/logo-white-100x100.png" class='logo' />
-<h1 class="leader">Urbit preview ~2015.9.24</h1>
 
-<h2>what:</h2>
+<h1 class="leader">Urbit preview <code>~2015.9.24</code></h1>
+
+<h2>What:</h2>
+
 <list dataPath="/pub/preview/materials"></list>
 
-<h2>why:</h2>
+<h2>Why:</h2>
 
 Do you ever feel like you're using the Internet as a modem?
 
@@ -19,10 +21,12 @@ Does it beat a 2015 network?  Who knows?  What is a 2015 network, anyway?  The q
 
 First, the Internet beat the modem.  Then, a modem on top of the Internet beat the Internet.  So, we made an Internet on top of the Internet...
 
-<h2>also:</h2>
+<h2>Also:</h2>
 
 Urbit remains a closed network in alpha-test.  It's open source and patent-free.  Fork us on [github](https://github.com/urbit/urbit)!
 
-Want more updates like these?  We'd love your email: <email dataPath="/submit"></email>
+Want more updates like these?  We'd love your email: 
+
+<email dataPath="/submit"></email>
 
 PS: this page was served from an urbit (`~happut-fopnys`).
