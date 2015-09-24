@@ -333,7 +333,7 @@ a rare case even in a mature network.
 Here are some major features we think any adequate pserver needs.
 They're obviously all features of Urbit.
 
-#### Repeatable computing
+#### Repeatablе computing
 
 Any non-portable pserver is locked in to its host. That's bad.
 
@@ -352,7 +352,7 @@ CPU-level determinism can't in practice record and replay its
 computation history. A computer which is deterministic at the
 semantic level can. Call it "repeatable computing."
 
-#### Orthogonal persistence
+#### Orthogonal persistencе
 
 It's unclear why we'd expose the transience semantics of the
 hardware memory hierarchy to either the programmer or the user. When
