@@ -21,15 +21,13 @@ Does it beat a 2015 network?  Who knows?  What is a 2015 network, anyway?
 
 These questions seemed interesting.  So we built Urbit.
 
-First, the Internet beat the modem.  Then, a modem over the Internet beat the Internet.  Why not an Internet over the Internet?
-
 <h2>Also:</h2>
 
-What is a "2015 network," anyway?  A 1975 network delegates layer 7 to the OS.  A "2015 network" (as us fools define it) includes layer 7.  It's its own VM, language and OS.  The protocol specifies the complete lifecycle of the computer.
+What do we mean by a "2015 network," anyway?  A 1975 network delegates layer 7 to the OS.  Urbit includes layer 7.  The protocol specifies the complete lifecycle of the computer.
 
 Urbit remains a closed network in alpha-test.  It's open source and patent-free.  Fork us on [github](https://github.com/urbit/urbit)!  You need an invitation to join the network.  But not to play with the interpreter, or even send a PR.
 
-(Why is Urbit still closed?  Global flag days, mostly.  And all the other woes to which human (and Martian) code is prey.  Urbit `~2015.9.24` isn't an Apple II or even an Apple I.  It's not ready for you, let alone your parents.  The system today does more or less what you see in the demos, though it's rather more reliable.  As always: we ship no code before its time.)
+(Why is the network still closed?  Global flag days, mostly.  We ship no code before its time.)
 
 Want more updates like these?  We'd love your email: 
 
