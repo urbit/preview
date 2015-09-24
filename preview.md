@@ -5,7 +5,7 @@
 
 <h2>What:</h2>
 
-<list dataPath="/pub/preview/materials"></list>
+<list dataPath="materials"></list>
 
 <h2>Why:</h2>
 
