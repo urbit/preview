@@ -1,16 +1,13 @@
 ---
-title: Video part I
+title: demo ~2015.6.26 (part 1)
 sort: 1
 ---
 
 <link rel="stylesheet" type="text/css" href="/home/pub/preview/src/video.css" />
 
 <img src="https://storage.googleapis.com/urbit-extra/logo/logo-black-100x100.png" class='logo' />
-<h3 class='time'>~2015.6.26 (part 1)</h3>
 
 <iframe src="https://player.vimeo.com/video/133395510?color=fff&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-
-<p class='leader'>In which we fire up an urbit and get it to talk to the web.</p>
 
 ## Director's commentary
 

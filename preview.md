@@ -13,21 +13,23 @@ Do you ever feel like you're using the Internet as a modem?
 
 The Internet is actually an awesome modem.  The online services blow AOL away.  But are we really that far from 1995?
 
-Can we re-decentralize the Internet?  A lot of great hackers have been trying.  Maybe we can't?  Maybe it's just impossible?
+Can we re-decentralize the Internet?  A lot of great hackers have tried hard.  Maybe we can't?  Maybe it's just impossible?
 
-The Internet isn't from 1995.  It's from 1975.  In 1995, we learned that a network beats a mainframe.  Now, we've learned that a 2015 mainframe beats a 1975 network.
+The Internet isn't from 1995.  It's from 1975.  In 1995, we learned a network beats a mainframe.  Now, we've learned a 2015 mainframe beats a 1975 network.
 
-Does it beat a 2015 network?  Who knows?  What is a 2015 network, anyway?
+Does it beat a 2015 network?  What is a 2015 network, anyway?
+
+If the Internet beats a modem, and a modem on top of the Internet beats the Internet -- what if we made an Internet on top of the Internet?
 
 These questions seemed interesting.  So we built Urbit.
 
 <h2>Also:</h2>
 
-What do we mean by a "2015 network," anyway?  A 1975 network delegates layer 7 to the OS.  Urbit includes layer 7.  The protocol specifies the complete lifecycle of the computer.
+What do we mean by a "2015 network?"  A 1975 network delegates layer 7 to a separate OS.  Our "2015 network" specifies layer 7 -- it includes the OS.  The protocol defines the complete lifecycle of the computer.
 
 Urbit remains a closed network in alpha-test.  It's open source and patent-free.  Fork us on [github](https://github.com/urbit/urbit)!  You need an invitation to join the network.  But not to play with the interpreter, or even send a PR.
 
-(Why is the network still closed?  Global flag days, mostly.  We ship no code before its time.)
+(Why is Urbit still invite-only?  Because bugs.  Global flag days, etc.  We ship no code before its time.)
 
 Want more updates like these?  We'd love your email: 
 
