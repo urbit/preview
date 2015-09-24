@@ -25,7 +25,7 @@ First, the Internet beat the modem.  Then, a modem over the Internet beat the In
 
 <h2>Also:</h2>
 
-What is a "2015 network," anyway?  A 1975 network delegates layer 7 to the OS.  A "2015 network" (as us fools define it) includes layer 7: it's its own VM, language and OS.  The protocol specifies the complete lifecycle of the computer.
+What is a "2015 network," anyway?  A 1975 network delegates layer 7 to the OS.  A "2015 network" (as us fools define it) includes layer 7.  It's its own VM, language and OS.  The protocol specifies the complete lifecycle of the computer.
 
 Urbit remains a closed network in alpha-test.  It's open source and patent-free.  Fork us on [github](https://github.com/urbit/urbit)!  You need an invitation to join the network.  But not to play with the interpreter, or even send a PR.
 
