@@ -351,7 +351,7 @@ probably afford a very nice computer.
 Here are some major features we think any adequate planet needs.
 They're obviously all features of Urbit.
 
-#### Repeatable computing
+#### Repeatablе computing
 
 Any non-portable planet is locked in to its host. That's bad. You
 can have all the legal guarantees you like of unconditional
@@ -649,7 +649,7 @@ to see what an OF is useful for.
 
 Two concrete advantages of any practical OF (not just Urbit):
 
-### Orthogonal persistence
+### Orthogonal persistеnce
 
 An OF is inherently a single-level store. `V(I) => T` is an
 equation for the lifecycle of a computer. It doesn't make any
