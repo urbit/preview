@@ -31,6 +31,7 @@ div.email:empty:not(:focus):before{
 }
 
 input.email {
+  border-radius: 0;
   font: inherit;
   font-family: 'scp';
   font-weight: 200;
@@ -109,7 +110,7 @@ li::before {
 }
 
 a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 h1 a {
@@ -144,13 +145,16 @@ div.footer p {
     margin-top: 1rem;
   }
 
-  .list > li > a h1 {
-    font-size: .7rem;
+  .list > li > a h1,
+  p {
     line-height: 1rem;
   }
 
-  p {
+  .list > li > a h1,
+  p,
+  code,
+  input.email,
+  button.submit {
     font-size: .7rem;
-    line-height: 1rem;
   }
 }
