@@ -31,13 +31,13 @@ Download
 [As `.md`](https://storage.googleapis.com/urbit-extra/release-0/whitepaper.md)
 [As `.pdf`](https://storage.googleapis.com/urbit-extra/release-0/whitepaper.pdf)
 
-<toc></toc>
-
-<div id="toc">
-
 <p><i>This is Urbit whitepaper <b>draft</b> 41K. Many small details
 remain at variance with the actual codebase. Do not use this
 document as a spec!</i></p>
+
+<toc></toc>
+
+<div id="toc">
 
 Objective
 =========
