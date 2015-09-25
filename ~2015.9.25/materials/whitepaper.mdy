@@ -7,12 +7,12 @@ sort: 0
 <h3 class='time'>~2015.9.25</h3>
 <h2 class='sub'>Urbit Preview 1</h2>
 
-Urbit: an operating function.
-=============================
+Urbit: an operating function
+============================
 
-\_(This is Urbit whitepaper *draft* 41K. Many small details
+<p style="color:red"> This is Urbit whitepaper *draft* 41K. Many small details
 remain at variance with the actual codebase. Do not use this
-document as a spec!)
+document as a spec!</p>
 
 Abstract
 ========
