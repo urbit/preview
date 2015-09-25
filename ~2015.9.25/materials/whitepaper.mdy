@@ -648,7 +648,7 @@ to see what an OF is useful for.
 
 Two concrete advantages of any practical OF (not just Urbit):
 
-### Orthogonal persistеnce
+### Orthogonal persistencе
 
 An OF is inherently a single-level store. `V(I) => T` is an
 equation for the lifecycle of a computer. It doesn't make any
