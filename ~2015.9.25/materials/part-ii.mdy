@@ -1,13 +1,14 @@
 ---
-title: demo ~2015.6.26 (part 2)
+title: demo.2015.b
 sort: 2
 ---
 
 <link rel="stylesheet" type="text/css" href="/home/pub/~2015.9.25/src/video.css" />
 
 <img src="https://storage.googleapis.com/urbit-extra/logo/logo-black-100x100.png" class='logo' />
-<h2 class='sub'>Urbit Preview <code>2015.6.26</code></h2>
-<h2 class='sub'>Part II</h2>
+<h2 class='sub'>Urbit Preview <code>2015.9.25</code></h2>
+
+<h1>demo.2015.b</h1>
 
 <iframe src="https://player.vimeo.com/video/131715710?color=fff&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
