@@ -7,6 +7,9 @@ sort: 0
 <h3 class='time'>~2015.9.25</h3>
 <h2 class='sub'>Urbit Preview 1</h2>
 
+<p><i>This is Urbit whitepaper draft 41K. Some small details
+remain at variance with the actual codebase.</i></p>
+
 Urbit: an operating function
 ============================
 
@@ -30,10 +33,6 @@ Download
 --------
 [As `.md`](https://storage.googleapis.com/urbit-extra/release-0/whitepaper.md)
 [As `.pdf`](https://storage.googleapis.com/urbit-extra/release-0/whitepaper.pdf)
-
-<p><i>This is Urbit whitepaper <b>draft</b> 41K. Many small details
-remain at variance with the actual codebase. Do not use this
-document as a spec!</i></p>
 
 <toc></toc>
 
