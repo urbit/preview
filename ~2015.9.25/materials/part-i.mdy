@@ -3,7 +3,7 @@ title: demo.2015.a
 sort: 1
 ---
 
-<link rel="stylesheet" type="text/css" href="/home/pub/preview/~2015.9.25/src/video.css" />
+<link rel="stylesheet" type="text/css" href="/home/pub/~2015.9.25/src/video.css" />
 
 <img src="https://storage.googleapis.com/urbit-extra/logo/logo-black-100x100.png" class='logo' />
 <h2 class='sub'>Urbit Preview <code>~2015.9.25</code></h2>
