@@ -1,0 +1,40 @@
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+  #cont {
+    top: 1rem;
+  }
+
+  #nav #sibs {
+    width: 9rem;
+  }
+
+  .warning {
+    width: auto;
+  }
+
+  h1,
+  h2,
+  div.toc h1.t,
+  div.toc h1,
+  div.toc h2,
+  div.toc h3,
+  div.toc h4 {
+    font-size: 1rem;
+  }
+
+  h2 {
+    margin-top: 1rem;
+  }
+
+  .list > li > a h1,
+  p {
+    line-height: 1rem;
+  }
+
+  .list > li > a h1,
+  p,
+  code,
+  input.email,
+  button.submit {
+    font-size: .7rem;
+  }
+}
