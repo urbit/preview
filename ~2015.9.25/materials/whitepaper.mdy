@@ -1052,17 +1052,17 @@ is easier than it looks.
 Languages do need to be read out loud, and the conventional names
 for punctuation are clumsy. So Hoon replaces them:
 
-        ace [1 space]   fas /               ran >
-        bar |           gap [>1 space, nl]  rep '
-        bis \           hax #               rob &
-        buc $           ket ^               sac ;
-        cab _           lep (               sig ~
-        cen %           lit <               tar *
-        com ,           lus +               tec `
-        das -           mat @               tis =
-        den "           nap [               wat ?
-        dip {           pan ]               zap !
-        dot .           pel }
+    ace [1 space]  dot .               pan ]
+    bar |          fas /               pel )
+    bis \          gap [>1 space, nl]  pid }
+    buc $          hax #               ran >
+    cab _          ket ^               rep '
+    cen %          lep (               sac ;
+    col :          lit <               tar *
+    com ,          lus +               tec `
+    das -          mat @               tis =
+    den "          med &               wut ?
+    dip {          nap [               zap !
 
 For example, `%=` sounds like "centis" rather than "percent
 equals." Since even a silent reader will subvocalize, the length
